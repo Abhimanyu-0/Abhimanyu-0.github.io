@@ -6,7 +6,7 @@
     When we send robots to other planets, if near future is considered, Mars and our moon, we will need them to be performing their operations not just consistently but also go through bad weather, tough terrain, something that our current other-worldly rovers do not do for good 
     reason. They do not have the ability to repair themselves if any flaws come to attention. 
     
-    When people get to those planets they will have presumably have lots of other things to do like for example see to it they can survive the night at all, I would imagine. 
+    When people get to those planets they will presumably have lots of other things to do like for example see to it they can survive the night at all, I would imagine. 
     In such scenarios, it would be of paramount importance to make sure that checking up on robots that need repair be one of their least concerns. 
     
     The reason that we have robots is that we can get assistance from machines that are better than humans in atleast one task. And if the robot fails in that very task and needs assistance to get going again, it indeed would be dumb. 

@@ -3,7 +3,7 @@
 # Robots
 -  Self-repairing robots are the way of the future. 
 - Argument: 
-    When we send robots to other planets, if near future is considered, Mars and our moon. We will need them to be performing their operations not just consistently but also go through bad weather, tough terrain, something that our current other-worldly rovers do not do for good 
+    When we send robots to other planets, if near future is considered, Mars and our moon, we will need them to be performing their operations not just consistently but also go through bad weather, tough terrain, something that our current other-worldly rovers do not do for good 
     reason. They do not have the ability to repair themselves if any flaws come to attention. 
     
     When people get to those planets they will have presumably have lots of other things to do like for example see to it they can survive the night at all, I would imagine. 

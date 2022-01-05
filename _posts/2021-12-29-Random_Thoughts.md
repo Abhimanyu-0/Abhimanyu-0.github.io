@@ -17,7 +17,7 @@
 # Virtual Reality
 - Cool concept indeed. 
 
-But would you like to live in one for 95 percent of the time? Atleast with the current technology? Where we have to strap mobile devices in front of our eyes the whole time? 
+But would you like to live in one for 95 percent of the time? With the current technology, where we have to strap mobile devices in front of our eyes the whole time? 
 
 Perhaps, if they are sufficiently better than the real world. But then again, aren't humans the major problem of the 'real' world? What are the chances that we perniciously make the virtual world just as unpleasant? 
 

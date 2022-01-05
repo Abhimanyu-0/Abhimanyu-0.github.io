@@ -5,7 +5,7 @@ proposed as an aide to understand our place in the universe(amongst possibly oth
 in our galaxy alone, and even travelling at a fraction of the speed of light, the entire galaxy can be colonized in about 100 millions years, the reason why we have not witnessed other worldy organisms is because: They go extinct before they are 
 able to make the giant leap(they are not able to pass through the filter).
 - They can be many reasons as to why intelligent species are not able to pass through that ultimate barrier. 
-- Take our species for example, we have evolved to a stage where we left our hunting and competitive species behaviour in the past 
+- Take our species for example, we have evolved to a stage where we have left our resource-hungry and competitive species behaviour in the past 
 or we like to think. But the reality is that we are still descendents of the same apes that would kill for food or land. It is part of the reason how we came to become the dominant species on the planet that we inhabit. 
 - It can be argued that our competitive behaviour for resources is not yet fully dissolved. So there is always a prospect of an all-out nuclear war breaking out on our planet just by virtue of us being who we are. 
 This can be our barrier which we then fail to pass and become extinct. 

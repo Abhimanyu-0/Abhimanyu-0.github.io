@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Abhimanyu Suthar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abhimanyu
+last_name: Suthar
 
 # Status emoji
 status:
@@ -17,34 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's student in Robotics at NYU
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: New York University 
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: M
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  -
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  #  - course: PhD in Artificial Intelligence
+   #   institution: Stanford University
+    #  year: 2012
+    - course: MS in Mechatronics and Robotics
+      institution: New York University
+      year: 2023-25
+    - course: B.Tech in Mechanical Engineering
+      institution: DJ Sanghvi College of Engineering, India
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,16 +69,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
+        #icon: person-hiking
+        #icon_pack: fas
+      
       - name: Photography
         description: ''
         percent: 80

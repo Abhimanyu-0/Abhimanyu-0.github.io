@@ -22,7 +22,7 @@ role: Master's student in Robotics at NYU
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: New York University 
-    url: https://www.stanford.edu/
+    url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: M
@@ -71,16 +71,16 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Reading
-        description: ''
-        percent: 60
+        #description: ''
+        #percent: 60
         #icon: person-hiking
         #icon_pack: fas
       
       - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        #description: ''
+        #percent: 80
+        #icon: camera-retro
+        #icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

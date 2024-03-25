@@ -66,7 +66,7 @@ sections:
           company: Defense Research and Development Organization
           company_url: 'https://www.drdo.gov.in/drdo/labs-and-establishments/centre-artificial-intelligence-robotics-cair'
           company_logo: org-gc
-          location: Benguluru 
+          location: Bengaluru 
           date_start: '2022-07-20'
           date_end: '2022-08-20'
           description: |2-

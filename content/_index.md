@@ -55,20 +55,20 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Aug 2022
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Project Intern
+          company: Defense Research and Development Organization
+          company_url: 'https://www.drdo.gov.in/drdo/labs-and-establishments/centre-artificial-intelligence-robotics-cair'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Benguluru 
+          date_start: '2022-07-20'
+          date_end: '2022-08-20'
           description: |2-
               Responsibilities include:
 
@@ -259,15 +259,15 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/abhimanyu_25s'
+       # - icon: skype
+        #  icon_pack: fab
+         # name: Skype Me
+          #link: 'skype:echo123?call'
+        #- icon: video
+         # icon_pack: fas
+         # name: Zoom Me
+         # link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

@@ -54,13 +54,13 @@ skills:
       - name: Python
         description: ''
         #percent: 80
-        icon: python
-        icon_pack: fab
+        #icon: python
+        #icon_pack: fab
       - name: ROS
         description: ''
         #percent: 100
-        icon: chart-line
-        icon_pack: fas
+        #icon: chart-line
+        #icon_pack: fas
       - name: C++
         description: ''
         #percent: 40
